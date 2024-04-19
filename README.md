@@ -1,12 +1,15 @@
+Yang Rangel
+HTML
+
 ##Tecnología##
 
-- []HTML
+- [X]HTML
 - []CSS3
 - []docs
  
 ##Seleccione el tipo de actividad##
 
-- []Feature
+- [X]Feature
 - []Changes
 - []Hotfix
 - []Refactor
