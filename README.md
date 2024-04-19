@@ -1,4 +1,14 @@
-# Tarea_Html_Yang-Rangel_1
+##Tecnología##
 
-Nombre: Yang Rangel
-HTML
+- []HTML
+- []CSS3
+- []docs
+ 
+##Seleccione el tipo de actividad##
+
+- []Feature
+- []Changes
+- []Hotfix
+- []Refactor
+- []Performance
+- []Testing
