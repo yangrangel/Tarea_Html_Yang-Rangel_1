@@ -1,0 +1,55 @@
+:root{
+    --bg-blue: #93B5C9;
+ --bg-wine: #AB2849;
+}
+.contenedor_1{
+ 
+ background-color: #93B5C9;
+ width: 1250px;
+ height: 100px;
+
+}
+
+.caja1{ 
+
+ 
+ background-color: #AB2849;
+ width: 1250px;
+ height: 250px;
+ 
+}
+.caja2{ 
+
+ margin: 0.1cm;
+ background-color: #AB2849;
+ width: 1000px;
+ height: 100px;
+ position:  2100% left;
+}
+.caja3{ 
+
+ margin: 0.1cm;
+ background-color: #AB2849;
+ width: 1000px;
+ height: 100px;
+ position:  relative;
+ 
+}
+.caja4{ 
+
+    margin: 0.1cm;
+ background-color: #AB2849;
+ width: 1000px;
+ height: 100px;
+ position:  15px right;
+ 
+}
+.caja5{ 
+
+ margin: 0.5cm;
+ background-color: #AB2849;
+ width: 1230px;
+ height: 100px;
+ position:  15px right;
+ 
+}
