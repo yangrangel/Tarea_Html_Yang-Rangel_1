@@ -1,0 +1,201 @@
+.circulo{
+margin: 10px;
+    height: 50px;
+    width: 50px;
+    background-color: #7ED957;
+    border-radius: 50%;
+}
+
+.EN{
+
+    margin: 2cm;
+  height: 2cm;
+width:2cm;
+}
+
+.soluciones{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    position: relative;
+    direction:rtl
+
+}
+.imagengrande{
+
+   
+
+    width: 1100px;
+    width: 1000px;
+    position:absolute;
+    bottom: -1100px;
+    
+   
+  
+}
+
+.caja1{
+    
+    height: 50px;
+    width:500px;
+    background-color: #00BF63;
+    position:absolute;
+    bottom: 60px;
+    
+}
+.caja2{
+    height: 50px;
+    width:800px;
+    background-color: #00BF63;
+    position:absolute;
+    bottom: 0px;
+    
+
+}
+
+.caja3{
+    
+    height: 50px;
+    width:800px;
+    background-color: #00BF63;
+    position:absolute;
+    bottom: -60px;
+    
+
+}
+.caja4negra{
+
+    height: 25px;
+    width:700px;
+    background-color: #040a07;
+    position:absolute;
+    bottom: -40%;
+    
+
+}
+
+.caja5negra{
+
+    height: 25px;
+    width:700px;
+    background-color: #040a07;
+    position:absolute;
+    bottom: -47%;
+    left: 2cm;
+
+}
+.texto1{
+
+    color: white;
+    font-family:arimo;
+    font-size: 250%;
+    position: relative;
+    bottom: 30px;
+
+
+}
+.texto2{
+
+    color: white;
+    font-family:arimo;
+    font-size: 250%;
+    position: relative;
+    bottom: 30px;
+}
+.texto3{
+
+    color: white;
+    font-family:arimo;
+    font-size: 250%;
+    position: relative;
+    bottom: 30px;
+}
+.texto4{
+
+    color: white;
+    font-family:arimo;
+    font-size: 120%;
+    position: relative;
+    bottom: -10%;
+
+}
+.texto5{
+
+    color: white;
+    font-family:arimo;
+    font-size: 120%;
+    position: relative;
+    bottom: -10%;
+}
+.solucionestexto{
+
+
+    color: black;
+    font-family:arimo;
+    font-size: 150%;
+    position:relative;
+    bottom: -1000px;
+    left: 120px ;
+}
+.sinimportartexto{
+    
+
+    color: black;
+    font-family:arimo;
+    font-size: 150%;
+    position:relative;
+    bottom: -1020px;
+    left: 120px;
+
+}
+
+.imagenesp1{
+
+    display:block; 
+    position:absolute;
+    bottom: -1215px;
+    left:700px ;
+}
+.imagenesp2{
+    display:block; 
+    position:absolute;
+    bottom: -1215px;
+    left: -120px;
+
+}
+.imagenp3{
+    display:block; 
+    position:absolute;
+    bottom: -1200px; 
+    left:300px ;
+}
+.text1{
+
+    color: black;
+    font-family:arimo;
+    font-size: 100%;
+    position:relative;
+    bottom: -1500px;
+    left: 30px ;
+}
+.text2{
+
+    color: black;
+    font-family:arimo;
+    font-size: 100%;
+    position:relative;
+    bottom: -1440px;
+    left: 390px ;
+
+}
+.text3{
+
+    color: black;
+    font-family:arimo;
+    font-size: 100%;
+    position:relative;
+    bottom: -1380px;
+    left: 790px ;
+
+}
