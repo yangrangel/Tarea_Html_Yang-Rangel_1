@@ -1,0 +1,280 @@
+.imagen1{
+
+display: flex;
+height: 1200px;
+height: 1650px;
+position: absolute;
+bottom: -600px;
+
+}
+.circulo{
+
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+    background-color: #7ED957;
+    border-radius: 50%;
+    position:absolute;
+    bottom: 20%;
+    left: 800px;
+}
+
+.EnjoySpecial{
+   width: 100px;
+   height: 10px;
+   display:block;
+   align-items:end;
+   justify-content:center;
+   background: url(/img/2.png);
+   background-size:auto;
+   background-position:center;
+   position: absolute;
+   bottom: 400px;
+   left: 100px;
+   
+
+
+}
+
+.circulo2{
+
+    margin: 10px;
+    height: 50px;
+    width: 200px;
+    background-color: hsl(0, 0%, 2%);
+    border-radius: 50%;
+    position:absolute;
+    bottom: 80%;
+    left: 50px;
+}
+
+.DiscountsonOur{
+
+    color: black;
+    text-align:start;
+    width: 50px;
+    justify-content:right;
+    background-position:0ch;
+   position: absolute;
+   bottom: 220px;
+   left:100px;
+
+}
+.TopRatedChairs {
+
+    color: black;
+    text-align:center;
+    width: 50px;
+    justify-content:right;
+    background-position:center;
+   position: absolute;
+   bottom: 130px;
+   left: 100px;
+}
+
+.Dontmiss{
+
+    color: rgb(252, 249, 249);
+    text-align:center;
+    width: 50px;
+    justify-content:right;
+    background-position:center;
+   position: absolute;
+   bottom: -50px;
+   left: 120px;
+
+}
+.wrap-texto3 {
+
+    color: rgb(252, 249, 249);
+    text-align:center;
+    width: 50px;
+    justify-content:right;
+    background-position:center;
+   position: absolute;
+   bottom: 445px;
+   left: 120px;
+}
+.wrap-texto4{
+
+    color: rgb(252, 249, 249);
+    text-align:center;
+    width: 200px;
+    height: 200px;
+    justify-content:right;
+    background-position:center;
+   position: absolute;
+   bottom: 90px;
+   left: 870px;
+
+}
+.silla1{
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -600px;
+    left: 150px;
+
+}
+.silla2 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -600px;
+    left: 500px;
+
+}
+
+.silla3 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -600px;
+    left: 850px;
+
+}
+
+.silla4 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1100px;
+    left: 150px;
+
+}
+
+.silla5 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1100px;
+    left: 500px;
+}
+.silla6 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1100px;
+    left: 850px;
+}
+
+.textosilla1{
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1050px;
+    left: 200px;
+
+}
+.textosilla2 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1050px;
+    left: 600px;
+
+
+}
+
+.textosilla3 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1050px;
+    left: 1000px;
+
+
+}
+
+.textosilla4 {
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1550px;
+    left: 200px;
+
+
+}
+
+.textosilla5 {
+
+
+        display: flex;
+        height: 400px;
+        height: 400px;
+        position: absolute;
+        bottom: -1550px;
+        left: 600px;
+
+}
+
+.textosilla6 {
+
+
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1550px;
+    left: 1000px;
+
+}
+
+.Contenedor1 {
+
+
+margin-left: 0.5cm;
+text-align: center;
+background-color: black;
+color: black;
+    height: 100px;
+    width: 1200px;
+    position:absolute;
+    bottom: -1400px;
+    left: 100px;
+ 
+}
+
+.circulo3 {
+
+    margin: 10px;
+    height: 50px;
+    width: 200px;
+    background-color: hsl(103, 89%, 51%);
+    border-radius: 50%;
+    position:absolute;
+    bottom: -255%;
+    left: 150px;
+
+}
+.SHOPNOW{
+    color: rgb(252, 249, 249);
+    display: flex;
+    height: 400px;
+    height: 400px;
+    position: absolute;
+    bottom: -1720px;
+    left: 225px;
+
+
+}
